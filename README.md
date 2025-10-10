@@ -94,7 +94,7 @@ It’s more than a project—it’s **proof that tech with heart can make a diff
 
 **👤 Priyankshu Sheet**  
 🔗 [LinkedIn](https://www.linkedin.com/in/priyankshusheet)  
-💻 [Portfolio](https://priyankshusheet.github.io/resume/)  
+💻 [Portfolio](https://priyankshusheet.vercel.app)  
 📧 [priyankshu.sheet123@gmail.com](mailto:priyankshu.sheet123@gmail.com)
 
 ---
