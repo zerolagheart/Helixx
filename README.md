@@ -1,9 +1,9 @@
-# 🏥 Helixx - Health Data Information & Management System
+# ✿ Helixx - Health Data Information & Management System
 
-**📅 Duration:** Oct 2024 – Jan 2025  
-**👨‍💻 Role:** Team Leader  
-**🧠 Team Size:** 6 Members  
-**📍 Repository:** [Helixx - GitHub](https://github.com/priyankshusheet/Helixx)
+**❀ Duration:** Oct 2024 – Jan 2025  
+**❀ Role:** Team Leader  
+**❀ Team Size:** 6 Members  
+**❀ Repository:** [Helixx - GitHub](https://github.com/priyankshusheet/Helixx)
 
 ---
 
@@ -36,24 +36,24 @@ I led a **6-member multidisciplinary team** and was responsible for:
 
 ## ✿ Key Features
 
-- ✅ **Smart patient queuing** using severity, location, and bed data  
-- 🚑 **Emergency reallocation** of non-urgent patients  
-- 🚨 **Ambulance dispatch** and **hospital alert system**  
-- 🔒 **Secure health record management**  
-- 🔔 **Real-time push/SMS updates** via *FCM* and *Twilio*  
-- 📅 **Appointment booking, rescheduling, and feedback system**
+- ❀ **Smart patient queuing** using severity, location, and bed data  
+- ❀ **Emergency reallocation** of non-urgent patients  
+- ❀ **Ambulance dispatch** and **hospital alert system**  
+- ❀ **Secure health record management**  
+- ❀ **Real-time push/SMS updates** via *FCM* and *Twilio*  
+- ❀ **Appointment booking, rescheduling, and feedback system**
 
 ---
 
 ## ✿ Technical Highlights
 
-- 💻 **Swift (iOS)** — for fast, responsive, and native mobile interfaces  
-- 🌐 **Node.js + Express** — for scalable backend APIs  
-- 🗃 **MongoDB** — for managing patient and hospital data  
-- 🔔 **Firebase Cloud Messaging (FCM)** & **Twilio** — for instant notifications  
-- 🗺 **Google Maps API** — for hospital proximity and routing  
-- 🔐 **Auth0** — for secure login and role-based access  
-- 🤖 **AI/ML (optional)** — for severity analysis and demand prediction  
+- ❀ **Swift (iOS)** — for fast, responsive, and native mobile interfaces  
+- ❀ **Node.js + Express** — for scalable backend APIs  
+- ❀ **MongoDB** — for managing patient and hospital data  
+- ❀ **Firebase Cloud Messaging (FCM)** & **Twilio** — for instant notifications  
+- ❀ **Google Maps API** — for hospital proximity and routing  
+- ❀ **Auth0** — for secure login and role-based access  
+- ❀ **AI/ML (optional)** — for severity analysis and demand prediction  
 
 ---
 
@@ -64,7 +64,7 @@ It’s more than a project—it’s **proof that tech with heart can make a diff
 
 ---
 
-## 🧩 Tech Stack
+## ✿ Tech Stack
 
 | Category | Technologies Used |
 |-----------|-------------------|
@@ -79,19 +79,19 @@ It’s more than a project—it’s **proof that tech with heart can make a diff
 
 ---
 
-## 🧠 Skills Demonstrated
+## ✿ Skills Demonstrated
 
 **Swift (Programming Language)** · **RESTful APIs** · **Core ML** · **Core Data** · **Team Leadership** · **Model-View-ViewModel (MVVM)** · **Firebase** · **Google Maps API** · **GitHub**
 
 ---
 
-## 📸 Preview
+## ✿ Preview
 <img width="2000" height="2000" alt="Frame 1792" src="https://github.com/user-attachments/assets/d7da7c7c-3881-47f1-ade0-bab76643870a" />
 
 
 ---
 
-## 🌍 Connect with Me
+## ✿ Connect with Me
 
 **👤 Priyankshu Sheet**  
 🔗 [LinkedIn](https://www.linkedin.com/in/priyankshusheet)  
