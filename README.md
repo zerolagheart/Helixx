@@ -85,8 +85,9 @@ It’s more than a project—it’s **proof that tech with heart can make a diff
 
 ---
 
-## 📸 Preview (Coming Soon)
-> App screenshots, workflows, and demo video will be added in the next update.
+## 📸 Preview
+<img width="2000" height="2000" alt="Frame 1792" src="https://github.com/user-attachments/assets/d7da7c7c-3881-47f1-ade0-bab76643870a" />
+
 
 ---
 
