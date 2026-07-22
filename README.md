@@ -18,8 +18,8 @@ With **real-time data, smart queuing, emergency allocation,** and **health recor
 
 ## ✿ Why We Built It
 
-This project stemmed from a problem I couldn’t ignore—patients being denied or delayed care due to **mismanagement**.  
-I wanted to build a system where **technology meets empathy**, optimizing patient flow and resource usage—because **every second in healthcare counts**.
+This project stemmed from a problem we couldn’t ignore—patients being denied or delayed care due to **mismanagement**.  
+We wanted to build a system where **technology meets empathy**, optimizing patient flow and resource usage—because **every second in healthcare counts**.
 
 ---
 
