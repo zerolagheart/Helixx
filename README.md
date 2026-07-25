@@ -4,6 +4,8 @@
 **❀ Role:** Team Leader  
 **❀ Team Size:** 6 Members  
 **❀ Repository:** [Helixx - GitHub](https://github.com/priyankshusheet/Helixx)
+**❀ Prototype:** [Figma Prototype](https://www.figma.com/proto/rYjI1QqtaN2WBLowHUJob0/Helixx?node-id=836-1242&starting-point-node-id=836%3A1242&t=MuD0BXiqrGHPUIBM-1)
+
 
 ---
 
